@@ -1,0 +1,10 @@
+= Debug exercises
+
+For each exercise there are a number of defects. Requires python3.
+
+* hangman.py
+** holds three defects
+* cows-and-bulls.py
+** holds five defects
+* tic-tac-toe.py
+** holds six defects
